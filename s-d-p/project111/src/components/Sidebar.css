@@ -1,0 +1,28 @@
+/* src/components/Sidebar.css */
+.sidebar {
+  width: 200px;
+  padding: 20px;
+  background-color: #282424;
+  border-right: 1px solid #000000;
+  color: black; /* Change text color to black */
+}
+
+.sidebar h3 {
+  margin-top: 0;
+  color: black; /* Change text color to black */
+}
+
+.filter-group {
+  margin-bottom: 20px;
+}
+
+.filter-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: black; /* Change text color to black */
+}
+
+.filter-group input {
+  margin-right: 10px;
+  color: black; /* Change text color to black */
+}
